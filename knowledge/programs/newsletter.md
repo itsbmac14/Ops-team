@@ -4,6 +4,8 @@
 
 > **Identity draft (Oct 6):** proposed name *Between Rounds*, "One idea. One rep. Back in the fight." Sections renamed The Bell / The Rep / In the Corner / Ringside / CMH Cares Scorecard / Presented by / Last Round. See `outputs/2026-10-06-identity-podcast-newsletter.md`. Pending Brian's approval.
 
+> **Model:** Arthur Brooks's *How to Build a Life* column. Each issue takes one human question and answers it with one credited idea, a personal story and a practice. Add Gervais-style inner-game reps.
+
 ## Role
 - **Free tier of the offer ladder.** It's the owned audience CMH controls, not something rented from IG.
 - **Revenue:** newsletter sponsorship (one aligned sponsor per issue).

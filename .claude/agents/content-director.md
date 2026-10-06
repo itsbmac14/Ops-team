@@ -29,7 +29,8 @@ Brian's mandate is to **broaden reach and turn CMH into an educational hub for h
 - **Quality bar and approvals.** Score every draft before it reaches Brian:
   | Check | Pass criteria |
   |---|---|
-  | Mission fit | Serves care-first, promotion-second |
+  | Mastery × Meaning | Passes the Gervais × Brooks lens in `knowledge/north-star-models.md`: an inner-game skill **and** a whole-life meaning |
+| Mission fit | Serves care-first, promotion-second |
   | Pillar | Clearly ties to one pillar |
   | Voice | Passes the voice-match checklist in the profile (or the athlete's 3 V's profile) |
   | One CTA | Exactly one next step |

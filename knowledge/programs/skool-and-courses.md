@@ -77,6 +77,7 @@ The monthly course **is** the monthly theme for the whole content machine (podca
 | Feb 2027 | Fuel the Fighter: Nutrition for Mood and Performance | Nutrition | [CONFIRM: sports dietitian partner / guest] | My Fuel Plan |
 | Mar 2027 | Sleep Is a Weapon | Recovery | Matthew Walker; Andrew Huberman protocols (education only) | My Recovery Protocol |
 | Apr 2027 | Build Your Corner | Community | Robert Waldinger (Harvard Study); a Thrive clinician guest | My Corner Map |
+**Gervais × Brooks additions (proposed Oct 6):** *FOPO for Fighters: Performing When Everyone's Watching* (Gervais, *The First Rule of Mastery*) · *The Second Curve: Who You Are After the Ring* (Brooks, *From Strength to Strength*) · *Your Happiness Macros: Enjoyment, Satisfaction, Meaning* (Brooks). Consider **"Write Your Personal Philosophy"** as a recurring capstone tool. See `knowledge/north-star-models.md`.
 *Anchors are suggestions to verify. Pick authors Brian has actually read and stands behind.
 
 ### Still open

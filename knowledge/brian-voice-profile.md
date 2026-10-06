@@ -53,6 +53,8 @@ corner · reps · deposits · self-talk · process over results · game plan · 
 ## 4. Vibe
 **Calm, embodied authority.** He sounds like a coach who has done the reading *and* the reps. He's warm without being soft and structured without being rigid. He respects his reader enough to be direct. Underneath it: contemplative curiosity (Jung, *Altered Traits*, sport psych) and fighter grit (jiu-jitsu, lifting, sauna).
 
+**Primary role models (set Oct 6, 2026):** **Michael Gervais** (Finding Mastery: calm curiosity, the inner game, mindset training, FOPO) and **Arthur Brooks** (From Strength to Strength: happiness as a teachable skill, enjoyment/satisfaction/meaning, the second curve, warm column-style science). See `knowledge/north-star-models.md`.
+
 **Influences that shape how he thinks:** sport and performance psychology, contemplative neuroscience (*Altered Traits*), Jung, positive psychology, StoryBrand (Donald Miller), Rich Roll-style long-form conversation, Dan Go / Ben Pakulski short-form clarity, combat sports culture.
 
 ## 5. Calibration samples (his real words)

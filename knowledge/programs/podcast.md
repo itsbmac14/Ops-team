@@ -4,6 +4,8 @@
 
 > **Identity draft (Oct 6):** proposed name *In Your Corner*, with a "Five Rounds" format (one round per pillar) plus the Walkout cold open and the Final Bell closer. See `outputs/2026-10-06-identity-podcast-newsletter.md`. Pending Brian's approval.
 
+> **Model:** *Finding Mastery* (Gervais) for depth and curiosity, plus Brooks for whole-life meaning. Add to every episode: **"What's your personal philosophy?"** (Gervais) and **"Who are you when you're not competing?"** (Brooks, the second curve). See `knowledge/north-star-models.md`.
+
 ## Purpose
 1. **Authority engine:** builds CMH's credibility in the mental health and performance space.
 2. **Ambassador on-ramp:** builds rapport with potential ambassadors and partners. Every ambassador records one episode within 60 days of joining.
