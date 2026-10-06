@@ -6,6 +6,8 @@
 
 > **Model:** *Finding Mastery* (Gervais) for depth and curiosity, plus Brooks for whole-life meaning. Add to every episode: **"What's your personal philosophy?"** (Gervais) and **"Who are you when you're not competing?"** (Brooks, the second curve). See `knowledge/north-star-models.md`.
 
+> **Audience (founder direction):** the Gervais/Brooks crowd, high performers and meaning-seekers. Aim for roughly half the guests from outside combat sports (business, arts, service, researchers/authors). Fighter episodes stay as the proof and the heart.
+
 ## Purpose
 1. **Authority engine:** builds CMH's credibility in the mental health and performance space.
 2. **Ambassador on-ramp:** builds rapport with potential ambassadors and partners. Every ambassador records one episode within 60 days of joining.

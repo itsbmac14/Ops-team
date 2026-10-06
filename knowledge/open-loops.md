@@ -17,6 +17,8 @@ Brian's primary role: **broaden reach and build CMH into an educational resource
 
 ## Role models (set Oct 6, 2026)
 Michael Gervais × Arthur Brooks → `knowledge/north-star-models.md`
+- [x] Founder direction: grow into the Gervais/Brooks audiences beyond boxing (Anthony)
+- [ ] Review the CMH Movement brand surfaces (Skool about page, site homepage, IG bio) for fighter-only language that limits the broader audience
 - [ ] Decide whether FOPO and/or The Second Curve go into the course roadmap (and which month)
 
 ## Decisions needed

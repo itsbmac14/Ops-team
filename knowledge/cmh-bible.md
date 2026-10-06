@@ -114,14 +114,16 @@ Mental health (telehealth, therapy, mindfulness, neurofeedback) · Human perform
 
 ### What that means in practice
 1. **From event brand to education hub.** Fight nights and the CMH Boxing audience are the **top of the funnel**. The hub (Skool courses, Starter Kit, podcast, newsletter) is where people stay and learn.
-2. **Widen the circle, keep the core.** Expand outward in rings without losing the fighter DNA. Fighters stay the proof and the metaphor; the lessons work for everyone.
-   | Ring | Audience | Why they come |
-   |---|---|---|
-   | Core | Fighters on CMH cards, alumni, families | Support, the corner, Thrive access |
-   | 2 | Combat-sports fans and all athletes (the 9.55M-view audience, 92% non-followers) | Inside the mind of a fighter |
-   | 3 | Coaches, parents of athletes, gym owners | Tools to support *their* athletes |
-   | 4 | High performers in business, art and service (the four podcast sectors) | Perform at a high level without burning out |
-   | 5 | Anyone in a hard season | "No person should face the hard parts of life, business, and sport alone" |
+2. **Founder direction (Anthony, Oct 2026): reach the Gervais and Brooks audiences, not just boxing.** CMH Movement is a broad education hub for high performers and meaning-seekers. **Boxing is the origin story, the proof and the signature metaphor, not the audience boundary.**
+   **Brand architecture:** **CMH Boxing** = the event brand (fight nights, the proof, top of the funnel) · **CMH Movement** = the hub for everyone (Skool, podcast, newsletter, CMH Cares).
+   | Audience | Who | Why they come | Priority |
+   |---|---|---|---|
+   | **Growth target A: high performers** | Founders, executives, creators, athletes in every sport, military/first responders, coaches (the *Finding Mastery* audience) | Perform at the highest level without burning out | **Primary growth** |
+   | **Growth target B: meaning-seekers** | Mid-career and midlife professionals, parents, people in transitions (the *Brooks* audience) | Happiness, purpose, the second curve | **Primary growth** |
+   | **The core community** | Fighters on CMH cards, alumni, families, gyms | Support, the corner, Thrive access | Always served; the heart and the proof |
+   | **The on-ramp** | Combat-sports fans (the 9.55M-view audience, 92% non-followers) | Inside the mind of a fighter | The discovery channel into the hub |
+   | **Everyone** | Anyone in a hard season | "No person should face the hard parts of life, business, and sport alone" | Served by the free hub |
+   **The tone shift:** thoughtful, intelligent, warm and accessible, the register of *Finding Mastery* and *The Atlantic*, with fighter grit as the signature flavor. Lead with the human question. Use the ring as the metaphor that makes it memorable.
 3. **Teach, don't just inspire.** Every piece of content teaches one usable idea or tool from a pillar. Inspiration earns the click; education earns the return visit.
 4. **Five pillars = the curriculum map.** Over time the hub should hold a deep, searchable library for each pillar (Mindset, Movement, Nutrition, Recovery, Community). The monthly course builds it one brick at a time.
 5. **Free first.** The hub is free (nonprofit). Reach and trust come before any paid tier.
@@ -138,7 +140,7 @@ Mental health (telehealth, therapy, mindfulness, neurofeedback) · Human perform
 ### Content filter (every agent runs it)
 - Does this **reach someone new** or **teach someone something usable**? If neither, cut it.
 - Does it show performance **and** well-being together, never one at the other's expense?
-- Would it work for a fighter *and* a founder? If it only works inside the ring, add a bridge line ("…whether you're stepping into the ring, onto the court, or into a hard day").
+- **Would a founder, a parent or a Navy SEAL get value from this, and would a fighter still feel it's theirs?** Lead with the universal human question. Use the fight as the story or metaphor, never as the entry requirement. Titles must be universal; fighter specifics live inside.
 
 ## 5. Brian's five programs (detail in `knowledge/programs/`)
 1. **CMH Podcast**: `programs/podcast.md`

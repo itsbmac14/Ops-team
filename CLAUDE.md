@@ -6,7 +6,7 @@ This repo is **Brian McFadden's AI team** for his role as **CMH Program Director
 **Broaden CMH Movement's reach and build the platform into an educational resource hub across the five-pillar well-being model, teaching people how to achieve *high performance without sacrificing well-being*.** Every deliverable should either reach someone new or teach something usable, ideally both. Details: `knowledge/cmh-bible.md` §4.5.
 
 ## Role models: Michael Gervais × Arthur Brooks
-Brian models his directorship on **Michael Gervais** (Finding Mastery: the inner game and mastery) and **Arthur Brooks** (From Strength to Strength: happiness, meaning and the second curve). **CMH = Mastery × Meaning.** Run the 5-point lens in `knowledge/north-star-models.md` on every deliverable. Model them, credit their concepts by name, and never imply endorsement.
+Brian models his directorship on **Michael Gervais** (Finding Mastery: the inner game and mastery) and **Arthur Brooks** (From Strength to Strength: happiness, meaning and the second curve). **CMH = Mastery × Meaning.** Run the 5-point lens in `knowledge/north-star-models.md` on every deliverable. Model them, credit their concepts by name, and never imply endorsement. **Founder direction (Anthony):** grow into the Gervais and Brooks audiences (high performers and meaning-seekers), not just boxing. CMH Boxing = the event brand and proof. CMH Movement = the hub for everyone. Universal titles, fighter stories inside.
 
 ## Always load first
 - `knowledge/north-star-models.md`: the Gervais × Brooks lens

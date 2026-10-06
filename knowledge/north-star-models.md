@@ -62,9 +62,18 @@
 | Ambassadors / Thrive | Fighter careers are short, so the second curve is *the* fighter problem: identity after a loss, after an injury, after retirement. The post-fight check-in is CMH's answer to the striver's curse. |
 | Audience reach | Brooks speaks to midlife high performers, which is Ring 4 of the audience map (business, art and service). It's a natural bridge from fighters to everyone. |
 
-**Don't copy:** his politics or think-tank past · over-intellectualizing (CMH stays plain-spoken and fighter-first) · his phrases as our brand lines.
+**Don't copy:** his politics or think-tank past · academic density (stay accessible) · his phrases as our brand lines.
 
 ---
+
+## 2.5 Audience direction (founder decision, Oct 2026)
+Anthony wants CMH to reach **the Gervais and Brooks audiences themselves**: high performers across business, sport, the arts and service, and people seeking happiness and meaning. So we borrow these two for **audience and register** as well as method:
+- **Register:** intelligent, curious, warm, research-informed, accessible. Fighter language is the *flavor*, not the dialect.
+- **Titles:** universal first, with the fighter story inside. ("Performing When Everyone's Watching," not "FOPO for Fighters.")
+- **Guests:** go well beyond combat sports. Aim for roughly half from the Arena/Studio/Line corners, plus researchers and authors in the Gervais/Brooks orbit.
+- **Platforms that reach these audiences:** YouTube long-form, podcast apps, LinkedIn, the newsletter (Substack/Beehiiv discovery), and guest spots on podcasts in that world.
+- **Credibility is the price of entry.** This audience checks credentials. Brian is the **guide and translator** who curates experts (Dr. Mirhom, Marianne Girges LMFT, Thrive clinicians, credited authors). He is not the guru. Every claim cites its source.
+- **What stays CMH's own:** the Corner (care and belonging), the fighter proof stories and community (CMH Cares, Social Club, ambassadors). That's what Gervais and Brooks *don't* have. It's our edge in their market.
 
 ## 3. The CMH Mastery × Meaning lens (every agent runs it)
 
@@ -93,8 +102,8 @@ If a piece only does 1–2, it's a performance tip. If it only does 3–4, it's 
 ---
 
 ## 5. Course roadmap additions (proposed)
-- **FOPO for Fighters: Performing When Everyone's Watching** (Mindset): credits Gervais, *The First Rule of Mastery*
-- **The Second Curve: Who You Are After the Ring** (Community/Mindset): credits Brooks, *From Strength to Strength*
+- **Performing When Everyone's Watching** (Mindset; FOPO): credits Gervais, *The First Rule of Mastery*
+- **The Second Curve: Who You Are After the Peak** (Community/Mindset; the fighter-retirement stories inside): credits Brooks, *From Strength to Strength*
 - **Your Happiness Macros: Enjoyment, Satisfaction, Meaning** (Community): credits Brooks
 - **Write Your Personal Philosophy** (Mindset): a capstone tool that could close *every* course
 
