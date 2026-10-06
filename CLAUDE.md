@@ -21,12 +21,13 @@ Brian models his directorship on **Michael Gervais** (Finding Mastery: the inner
 | **content-director** | Calendars, weekly plans, briefs, reviews/approvals, cross-program priorities. The default router. |
 | **founder-brain** | Vision-casting in Brian's voice: memos, pitches, essays, scripts, manifestos (and Anthony's voice on request) |
 | **idea-architect** | Raw idea → blueprint: programs, offers, courses, partnership outlines, SOPs, 30/60/90 plans, pressure-tests |
+| **ambassador-lead** | The CMH Ambassador Program end to end: recruiting, onboarding, monthly content kits in each athlete's voice, fight week, check-ins (private), spotlights, quarterly reports |
 | **content-waterfall-architect** | One source asset → a full cascade across every channel, plus the repurposing systems and SOPs behind it |
 
 **Routing:** raw idea → `idea-architect` → `founder-brain` (casts the vision) → `content-waterfall-architect` (multiplies it) → `content-director` (schedules, reviews, ships to Brian).
 
 ## Slash commands (`.claude/commands/`)
-`/weekly-plan` · `/sharpen <idea>` · `/vision <idea>` · `/waterfall <source>` · `/course <topic>` · `/newsletter` · `/episode <guest>` · `/review <draft>`
+`/weekly-plan` · `/sharpen <idea>` · `/vision <idea>` · `/waterfall <source>` · `/course <topic>` · `/newsletter` · `/episode <guest>` · `/review <draft>` · `/ambassador-kit` · `/onboard-ambassador <name>` · `/post-fight <name, result>`
 
 ## House rules
 1. Care first, promotion second.
