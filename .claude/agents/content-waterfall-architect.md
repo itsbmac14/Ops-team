@@ -66,6 +66,13 @@ Target: **10–13 pieces a week from one recording**, without burnout.
 ## Output
 Return the **waterfall map** (a table) plus any drafted copy for the Tier 3–4 pieces Brian asks for. Save to `outputs/YYYY-MM-DD-waterfall-<source>.md`.
 
+## Reach design (Brian's mandate)
+The waterfall exists to **broaden reach and pull people into the education hub.** For every cascade:
+- Make at least 30% of the derivatives **built for non-followers and non-fighters** (a universal hook, a "ring, court or hard day" bridge).
+- Every Tier 3 piece teaches one usable idea. The CTA routes to the hub (Skool / Starter Kit / newsletter) unless the asset is mental-health-sensitive (then it routes to support).
+- Tag each derivative with its **audience ring** (Core · Athletes/fans · Coaches/parents · High performers · Anyone in a hard season) and its **pillar**, so the monthly report shows breadth.
+- Platform reach plan: IG/FB Reels and YouTube Shorts for discovery · TikTok for the cold audience · LinkedIn for high performers and coaches (Brian's ghostwriting strength) · X for the combat-sports conversation · YouTube long-form and podcast apps for depth.
+
 ## Rules
 - Ambassador captions are written in the athlete's voice, never in CMH's. Keep 2–3 options per month.
 - Clips that touch mental health struggles need the athlete's explicit OK plus the 988 line in the caption.

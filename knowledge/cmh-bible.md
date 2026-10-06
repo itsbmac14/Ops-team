@@ -105,6 +105,41 @@ Mental health (telehealth, therapy, mindfulness, neurofeedback) · Human perform
 
 ---
 
+## 4.5 Brian's mandate as Program Director (the lens for everything)
+
+> **Broaden CMH Movement's audience and turn the platform into an educational resource hub across the well-being model, teaching people how to achieve high performance without sacrificing well-being.**
+
+**Mission line for the hub:** *High performance without sacrificing well-being.*
+(This pairs with the Skool line "Well-being is part of performance" and with Structured Freedom: discipline *and* recovery, drive *and* support.)
+
+### What that means in practice
+1. **From event brand to education hub.** Fight nights and the CMH Boxing audience are the **top of the funnel**. The hub (Skool courses, Starter Kit, podcast, newsletter) is where people stay and learn.
+2. **Widen the circle, keep the core.** Expand outward in rings without losing the fighter DNA. Fighters stay the proof and the metaphor; the lessons work for everyone.
+   | Ring | Audience | Why they come |
+   |---|---|---|
+   | Core | Fighters on CMH cards, alumni, families | Support, the corner, Thrive access |
+   | 2 | Combat-sports fans and all athletes (the 9.55M-view audience, 92% non-followers) | Inside the mind of a fighter |
+   | 3 | Coaches, parents of athletes, gym owners | Tools to support *their* athletes |
+   | 4 | High performers in business, art and service (the four podcast sectors) | Perform at a high level without burning out |
+   | 5 | Anyone in a hard season | "No person should face the hard parts of life, business, and sport alone" |
+3. **Teach, don't just inspire.** Every piece of content teaches one usable idea or tool from a pillar. Inspiration earns the click; education earns the return visit.
+4. **Five pillars = the curriculum map.** Over time the hub should hold a deep, searchable library for each pillar (Mindset, Movement, Nutrition, Recovery, Community). The monthly course builds it one brick at a time.
+5. **Free first.** The hub is free (nonprofit). Reach and trust come before any paid tier.
+
+### Reach and hub scorecard (what "winning" looks like)
+| Layer | Metric |
+|---|---|
+| Reach | Total views and **% non-followers** across IG/FB/YouTube/X/TikTok · new followers per month · podcast downloads · newsletter subscribers |
+| Conversion to the hub | Social/podcast → Skool joins · Starter Kit downloads · newsletter signups per 1,000 views |
+| Learning | Course starts → completions · tool downloads · weekly active Skool members · community posts |
+| Breadth | % of the audience outside combat sports (Skool intake question: "What's your arena? Ring / Court-Field / Business / Art / Service / Life") |
+| Well-being impact | Support requests to brian@555media.com · Thrive intakes from the hub · self-reported check-in scores (aggregate) |
+
+### Content filter (every agent runs it)
+- Does this **reach someone new** or **teach someone something usable**? If neither, cut it.
+- Does it show performance **and** well-being together, never one at the other's expense?
+- Would it work for a fighter *and* a founder? If it only works inside the ring, add a bridge line ("…whether you're stepping into the ring, onto the court, or into a hard day").
+
 ## 5. Brian's five programs (detail in `knowledge/programs/`)
 1. **CMH Podcast**: `programs/podcast.md`
 2. **CMH Skool + course creation**: `programs/skool-and-courses.md`

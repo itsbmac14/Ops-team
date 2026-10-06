@@ -9,6 +9,12 @@
 - ✅ Thrive partnership announced as Preferred Partner. Onboarding series scripted.
 - ✅ Ambassador Program deck (2026)
 
+## Mandate (set Oct 6, 2026)
+Brian's primary role: **broaden reach and build CMH into an educational resource hub for high performance without sacrificing well-being.** See `cmh-bible.md` §4.5.
+- [ ] Add an "arena" question to the Skool join flow so audience breadth can be measured
+- [ ] Baseline the reach and hub scorecard (current Skool members, newsletter list, podcast downloads, follower counts per platform)
+- [ ] Build the reach strategy blueprint (run `/sharpen` on the mandate)
+
 ## Decisions needed
 - [ ] Podcast and newsletter names/identity → see `outputs/2026-10-06-identity-podcast-newsletter.md`
 - [ ] Podcast host, cadence and release schedule (also open in the ambassador deck)

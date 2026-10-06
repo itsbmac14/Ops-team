@@ -8,6 +8,7 @@
 ## 1. Identity
 - **Who:** Brian McFadden, CMH Program Director. Psychology and sport-psych background, contemplative-science reader, coach, writer, jiu-jitsu practitioner, lifter.
 - **Core message:** *The mind is trainable, and flourishing is a practice.* Mental health support belongs in the same category as strength work or film study.
+- **Mandate he speaks from:** *high performance without sacrificing well-being.* He's building CMH into an education hub that teaches it, for fighters first and for anyone in a fight of their own.
 - **Personal brand thread:** **Finding the Middle Way (FM).** Daily reading, daily posts and weekly essays. Balance, self-mastery, authenticity.
 - **Self-description (3–5 words):** Grounded. Systems-minded. Curious. Warm. Disciplined.
 
