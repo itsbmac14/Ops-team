@@ -15,6 +15,7 @@ Brian McFadden's AI team for running CMH Movement's Podcast, Skool and courses, 
 Open this repo in Claude Code and type:
 - `/weekly-plan`: your week across all five programs
 - `/sharpen <brain dump>`: a raw idea becomes a blueprint
+- `/ideate <challenge>`: 10 ideas, the top 3 and a vision for the best one
 - `/vision <idea>`: a vision memo, pitch and headlines in your voice
 - `/waterfall <episode / event / lesson>`: the full content cascade
 - `/course <topic>`: next month's Skool course, built on the Self-Talk formula

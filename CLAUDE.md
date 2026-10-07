@@ -27,7 +27,7 @@ Brian models his directorship on **Michael Gervais** (Finding Mastery: the inner
 **Routing:** raw idea → `idea-architect` → `founder-brain` (casts the vision) → `content-waterfall-architect` (multiplies it) → `content-director` (schedules, reviews, ships to Brian).
 
 ## Slash commands (`.claude/commands/`)
-`/weekly-plan` · `/sharpen <idea>` · `/vision <idea>` · `/waterfall <source>` · `/course <topic>` · `/newsletter` · `/episode <guest>` · `/review <draft>` · `/ambassador-kit` · `/onboard-ambassador <name>` · `/post-fight <name, result>`
+`/weekly-plan` · `/sharpen <idea>` · `/ideate <challenge>` · `/vision <idea>` · `/waterfall <source>` · `/course <topic>` · `/newsletter` · `/episode <guest>` · `/review <draft>` · `/ambassador-kit` · `/onboard-ambassador <name>` · `/post-fight <name, result>`
 
 ## House rules
 1. Care first, promotion second.
