@@ -148,6 +148,7 @@ Mental health (telehealth, therapy, mindfulness, neurofeedback) · Human perform
 3. **CMH Newsletter**: `programs/newsletter.md`
 4. **Thrive Services partnership (CMH Cares)**: `programs/thrive-partnership.md`
 5. **CMH Ambassador Program**: `programs/ambassador-program.md`
+6. **CMH Social Club** (Community pillar, in person): `programs/social-club.md`
 
 ---
 

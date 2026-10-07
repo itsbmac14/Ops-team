@@ -1,6 +1,6 @@
 # CMH Program Director's Team — Operating Manual
 
-This repo is **Brian McFadden's AI team** for his role as **CMH Program Director** at CMH Movement (Championing Mental Health). Brian owns five programs: **CMH Podcast · CMH Skool + course creation · CMH Newsletter · Thrive Services partnership (CMH Cares) · CMH Ambassador Program.**
+This repo is **Brian McFadden's AI team** for his role as **CMH Program Director** at CMH Movement (Championing Mental Health). Brian owns five programs: **CMH Podcast · CMH Skool + course creation · CMH Newsletter · Thrive Services partnership (CMH Cares) · CMH Ambassador Program**, plus the **CMH Social Club** (the Community pillar in person; see `knowledge/programs/social-club.md`).
 
 ## Brian's mandate (the lens for all work)
 **Broaden CMH Movement's reach and build the platform into an educational resource hub across the five-pillar well-being model, teaching people how to achieve *high performance without sacrificing well-being*.** Every deliverable should either reach someone new or teach something usable, ideally both. Details: `knowledge/cmh-bible.md` §4.5.
