@@ -20,28 +20,52 @@
 
 ### Safe bets (build on what already exists)
 
-| # | Name | Hook | Why it fits | Effort |
-|---|---|---|---|---|
-| 1 | **The Corner Table** | A Friendsgiving built around one question: *who's in your corner, and do they know it?* | It extends the live brand line ("Every fight needs a corner") from the ring to every life. Gratitude is the Friendsgiving theme, and the corner is CMH's own way of saying it. Fits Community and Meaning. | M |
-| 2 | **The Dinner, Reborn** | Take the CMH3 Sponsorship Dinner model (15–25 guests, hybrid room, founder origin story, a fighter speaks, a soft ask) and retune it from sponsorship to gratitude. | Proven internal blueprint, so less invention and less risk. Honors the work Brian already did. Needs care so it doesn't read as a sales dinner. | S |
-| 3 | **Five Courses, Five Pillars** | Each course quietly maps to a Structured Freedom pillar, with one conversation card per course. | Teaches the model without a slide deck. Turns the hub's curriculum map into something you can taste. Risk: it can feel like a lesson plan if it's overdone. | M |
+**1. The Corner Table** · Effort: M
+- **Hook:** A Friendsgiving built around one question: *who's in your corner, and do they know it?*
+- **Why it fits:** It extends the live brand line ("Every fight needs a corner") from the ring to every life. Gratitude is the Friendsgiving theme, and the corner is CMH's own way of saying it. Fits Community and Meaning.
+
+**2. The Dinner, Reborn** · Effort: S
+- **Hook:** Take the CMH3 Sponsorship Dinner model (15–25 guests, hybrid room, founder origin story, a fighter speaks, a soft ask) and retune it from sponsorship to gratitude.
+- **Why it fits:** Proven internal blueprint, so less invention and less risk. Honors the work Brian already did. Needs care so it doesn't read as a sales dinner.
+
+**3. Five Courses, Five Pillars** · Effort: M
+- **Hook:** Each course quietly maps to a Structured Freedom pillar, with one conversation card per course.
+- **Why it fits:** Teaches the model without a slide deck. Turns the hub's curriculum map into something you can taste. Risk: it can feel like a lesson plan if it's overdone.
+
 
 ### Stretches (borrow a Gervais or Brooks move and make it CMH's)
 
-| # | Name | Hook | Why it fits | Effort |
-|---|---|---|---|---|
-| 4 | **The Second Curve Supper** | Seat people at different points in their arc: a fighter in their prime beside a founder who has sold the company, a coach beside someone just starting out. Dessert question: *"Who are you when you're not performing?"* | Credits Arthur Brooks's second curve (*From Strength to Strength*). Speaks straight to the striver's curse, which is the high performer's private problem. | M |
-| 5 | **A Conversation Worth Having** | One unrecorded, 15-minute fireside between Brian and one guest of real wisdom [CONFIRM: who], then the tables carry the question forward. | Borrows Gervais's long-form, curious conversation with masters and its signature push to *articulate your personal philosophy*. Previews the podcast's register in person. | M |
-| 6 | **The Gratitude Letter** | Every guest writes a short letter to someone in their corner. CMH stamps and mails it so it lands Thanksgiving week. | Brooks writes about gratitude and relationships as practices you can train. A rep, not just a feeling. One act at the table, a second moment days later in someone else's mailbox. | S |
-| 7 | **The Four Corners Seating** | Seat every table with a mix from the podcast's four guest corners: the Ring, the Arena, the Studio and the Line (sport, business, the arts, service). | Builds the Gervais-style cross-domain mix into the seating chart. Fighters stop being the "boxing guests" and become peers. Founder direction made physical. | S |
+**4. The Second Curve Supper** · Effort: M
+- **Hook:** Seat people at different points in their arc: a fighter in their prime beside a founder who has sold the company, a coach beside someone just starting out. Dessert question: *"Who are you when you're not performing?"*
+- **Why it fits:** Credits Arthur Brooks's second curve (*From Strength to Strength*). Speaks straight to the striver's curse, which is the high performer's private problem.
+
+**5. A Conversation Worth Having** · Effort: M
+- **Hook:** One unrecorded, 15-minute fireside between Brian and one guest of real wisdom [CONFIRM: who], then the tables carry the question forward.
+- **Why it fits:** Borrows Gervais's long-form, curious conversation with masters and its signature push to *articulate your personal philosophy*. Previews the podcast's register in person.
+
+**6. The Gratitude Letter** · Effort: S
+- **Hook:** Every guest writes a short letter to someone in their corner. CMH stamps and mails it so it lands Thanksgiving week.
+- **Why it fits:** Brooks writes about gratitude and relationships as practices you can train. A rep, not just a feeling. One act at the table, a second moment days later in someone else's mailbox.
+
+**7. The Four Corners Seating** · Effort: S
+- **Hook:** Seat every table with a mix from the podcast's four guest corners: the Ring, the Arena, the Studio and the Line (sport, business, the arts, service).
+- **Why it fits:** Builds the Gervais-style cross-domain mix into the seating chart. Fighters stop being the "boxing guests" and become peers. Founder direction made physical.
+
 
 ### Wild cards (bold, maybe unrealistic, always interesting)
 
-| # | Name | Hook | Why it fits | Effort |
-|---|---|---|---|---|
-| 8 | **Supper in the Ring** | One long candlelit table set inside a boxing gym, white linen under the ropes. [CONFIRM: gym/venue] | The Trojan horse made literal: the boxing setting with a flourishing conversation inside. Unforgettable. Risks feeling like a gimmick, and the logistics are heavy. | L |
-| 9 | **The Unlisted Room** | The venue stays a secret until the day. Guests get a sealed card with an address and a time. | Creates the "reserved" feeling through intrigue rather than exclusion. Risk: it can tip into theatrical, and access needs (parking, mobility) still have to be shared privately. | M |
-| 10 | **The Pass-It-On Seat** | No one buys or asks their way in. Every guest nominates one person for the next table, so the Club grows on trust, not marketing. | Builds the club as a system (one touchpoint, multiple outputs). Reserved without being snobby: the gate is character, not net worth. Seeds a recurring series. | S (to start), L (as a series) |
+**8. Supper in the Ring** · Effort: L
+- **Hook:** One long candlelit table set inside a boxing gym, white linen under the ropes. [CONFIRM: gym/venue]
+- **Why it fits:** The Trojan horse made literal: the boxing setting with a flourishing conversation inside. Unforgettable. Risks feeling like a gimmick, and the logistics are heavy.
+
+**9. The Unlisted Room** · Effort: M
+- **Hook:** The venue stays a secret until the day. Guests get a sealed card with an address and a time.
+- **Why it fits:** Creates the "reserved" feeling through intrigue rather than exclusion. Risk: it can tip into theatrical, and access needs (parking, mobility) still have to be shared privately.
+
+**10. The Pass-It-On Seat** · Effort: S (to start), L (as a series)
+- **Hook:** No one buys or asks their way in. Every guest nominates one person for the next table, so the Club grows on trust, not marketing.
+- **Why it fits:** Builds the club as a system (one touchpoint, multiple outputs). Reserved without being snobby: the gate is character, not net worth. Seeds a recurring series.
+
 
 ---
 
