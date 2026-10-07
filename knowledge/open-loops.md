@@ -22,7 +22,7 @@ Michael Gervais × Arthur Brooks → `knowledge/north-star-models.md`
 - [ ] Decide whether FOPO and/or The Second Curve go into the course roadmap (and which month)
 
 ## Decisions needed
-- [ ] CMH Social Club Friendsgiving, "The Corner Table": date, city, budget, alcohol approach → `outputs/2026-10-07-ideas-cmh-social-club-friendsgiving.md` (proposed: decide by Oct 14)
+- [ ] CMH Social Club Friendsgiving (simple first gathering, Community pillar): date, venue, budget → `outputs/2026-10-07-social-club-friendsgiving-v2.md` (v1 full concept kept for later editions)
 - [ ] Podcast and newsletter names/identity → see `outputs/2026-10-06-identity-podcast-newsletter.md`
 - [ ] Podcast host, cadence and release schedule (also open in the ambassador deck)
 - [ ] Newsletter platform and cadence
